@@ -43,9 +43,6 @@ The **Telecommunication Package System** is a C++ project designed to provide a 
 ```
 📦 Telecommunication-Package-System
  ┣ 📄 main.cpp (Main program file)
- ┣ 📄 signup.cpp (User registration module)
- ┣ 📄 login.cpp (User authentication module)
- ┣ 📄 packages.cpp (Package subscription module)
  ┣ 📄 README.md (Project documentation)
  ┗ 📄 subscribed_package.txt (Stores subscribed packages)
 ```
