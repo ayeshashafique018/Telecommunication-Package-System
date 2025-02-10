@@ -9,7 +9,7 @@ The **Telecommunication Package System** is a C++ project designed to provide a 
 - **Signup & Login System** 🔐  
 - **Balance Inquiry** 💰  
 - **Top-up Balance** 📥  
-- **Package Subscription & Unsubscription** 📞📶✉️  
+- **Package Subscription & Unsubscription** 📞✉️  
 - **Prepaid & Postpaid Package Selection**  
 - **User-Friendly Interface with Console Beautification**  
 - **File Handling for Data Storage** 📂  
